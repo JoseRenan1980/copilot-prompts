@@ -79,7 +79,11 @@ Os resultados completos estão nos seguintes arquivos deste repositório:
 
 O desafio foi concluído com sucesso, seguindo todas as regras:
 
-- 7 perguntas feitas corretamente  
+- 7 perguntas feitas corretamente  <img width="1920" height="1080" alt="Agent1" src="https://github.com/user-attachments/assets/c84be90b-1b88-4892-a9cc-5b826c27f008" />
+<img width="1920" height="1080" alt="README" src="https://github.com/user-attachments/assets/55a53bcc-a83e-4c90-ad67-f6c3fc63e7ae" />
+<img width="1920" height="1080" alt="Entrega" src="https://github.com/user-attachments/assets/cb98da21-b2d7-4209-832c-ce820198faf7" />
+<img width="1920" height="1080" alt="Agent2" src="https://github.com/user-attachments/assets/8958f6d8-6eda-48e4-bf2a-ef3144e6a76f" />
+
 - 3 carreiras ranqueadas  
 - Handoff estruturado  
 - Plano completo gerado pelo Agent 2  
