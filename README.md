@@ -83,3 +83,43 @@ O plano completo está em:
 
 ## 📂 Estrutura de pastas sugerida
 
+---
+
+
+---
+
+## 🧭 Objetivo do desafio
+
+Este projeto demonstra:
+
+- Uso de agentes de IA para orientação profissional  
+- Capacidade de estruturar prompts complexos  
+- Organização de fluxo entre agentes  
+- Documentação clara e profissional  
+- Entrega final alinhada ao padrão DIO  
+
+---
+
+## 📎 Links úteis
+
+- Repositório original da DIO:  
+  https://github.com/digitalinnovationone/copilot-prompts  
+
+- Meu fork deste projeto:
+  (https://github.com/JoseRenan1980/copilot-prompts) 
+
+---
+
+## ✔️ Status do Projeto
+
+**Concluído com sucesso.**  
+Todos os arquivos foram gerados e documentados conforme solicitado no desafio.
+
+---
+
+## 🙌 Autor
+
+Projeto realizado por **José Renan**, como parte do Bootcamp DIO.
+
+
+
